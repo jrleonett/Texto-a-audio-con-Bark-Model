@@ -1,5 +1,9 @@
 # 🎤 Generador de Texto a Audio con Bark 🎧
 
+![Licencia](https://img.shields.io/badge/Licencia-GNU%20GPL%20v3-blue)
+![GitHub](https://img.shields.io/badge/Python-3.8%2B-green)
+![GitHub](https://img.shields.io/badge/Estado-Activo-brightgreen)
+
 ¡Bienvenido al generador de texto a audio utilizando **Bark**, un modelo de conversión de texto a audio basado en transformadores! Este cuaderno te permite convertir cualquier texto en español (u otros idiomas) en audio de alta calidad con un tono de voz realista. Desarrollado por **José R. Leonett** para la comunidad de Peritos Forenses Digitales de Guatemala.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gjIAn-tigNDK4nQje3dPzFFf0WmTjZK3?usp=sharing)
@@ -117,7 +121,7 @@ Usa la siguiente entrada BibTeX si utilizas este trabajo en tu investigación:
 ```
 
 **Licencia.**
-- Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+- Este proyecto está bajo la licencia GNU General Public License v3.0. Consulta el archivo LICENSE para más detalles.
 
 ---
 
